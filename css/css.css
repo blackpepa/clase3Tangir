@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+body{
+    background-color: black;
+}
+h1{
+    color: azure;
+    font-family: 'Potta One';
+    font-size: 500;
+    text-align: center;
+
+}
